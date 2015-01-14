@@ -2,45 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24903bed-2967-49ac-94d7-400b04523b2a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/IpswitchJenkinsWorkflow/GroovyScripts/ExcelReader$_closure1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/IpswitchJenkinsWorkflow/GroovyScripts/ExcelReader$_eachLine_closure2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/IpswitchJenkinsWorkflow/GroovyScripts/ExcelReader$_eachLine_closure3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/IpswitchJenkinsWorkflow/GroovyScripts/ExcelReader$_main_closure4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/IpswitchJenkinsWorkflow/GroovyScripts/ExcelReader.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/IpswitchJenkinsWorkflow/TA approach.xlsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/TA approach.xlsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/IpswitchJenkinsWorkflow/ooxml-schemas-1.0.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/ooxml-schemas-1.0.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/IpswitchJenkinsWorkflow/poi-3.11/poi-3.11-20141221.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/poi-3.11/poi-3.11-20141221.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/IpswitchJenkinsWorkflow/poi-3.11/poi-examples-3.11-20141221.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/poi-3.11/poi-examples-3.11-20141221.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/IpswitchJenkinsWorkflow/poi-3.11/poi-excelant-3.11-20141221.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/poi-3.11/poi-excelant-3.11-20141221.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/IpswitchJenkinsWorkflow/poi-3.11/poi-ooxml-3.11-20141221.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/poi-3.11/poi-ooxml-3.11-20141221.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/IpswitchJenkinsWorkflow/poi-3.11/poi-ooxml-schemas-3.11-20141221.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/poi-3.11/poi-ooxml-schemas-3.11-20141221.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/IpswitchJenkinsWorkflow/poi-3.11/poi-scratchpad-3.11-20141221.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/poi-3.11/poi-scratchpad-3.11-20141221.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/IpswitchJenkinsWorkflow/poi-3.11/ooxml-lib/xmlbeans-2.6.0.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/poi-3.11/ooxml-lib/xmlbeans-2.6.0.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/GroovyScripts/ExcelReader.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/ooxml_lib.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/poi_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/poi_3_11_20141221.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/reference.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/xbean.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GroovyExcelReaderInIDEA.iml" />
+      <change type="DELETED" beforePath="C:\Gitrepo\GroovyExcelReaderInIDEA\out\production\IpswitchJenkinsWorkflow\GroovyScripts\ExcelReader$_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Gitrepo\GroovyExcelReaderInIDEA\out\production\IpswitchJenkinsWorkflow\GroovyScripts\ExcelReader$_eachLine_closure2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Gitrepo\GroovyExcelReaderInIDEA\out\production\IpswitchJenkinsWorkflow\GroovyScripts\ExcelReader$_eachLine_closure3.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Gitrepo\GroovyExcelReaderInIDEA\out\production\IpswitchJenkinsWorkflow\GroovyScripts\ExcelReader$_main_closure4.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Gitrepo\GroovyExcelReaderInIDEA\out\production\IpswitchJenkinsWorkflow\GroovyScripts\ExcelReader.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Gitrepo\GroovyExcelReaderInIDEA\out\production\IpswitchJenkinsWorkflow\TA approach.xlsx" afterPath="" />
+      <change type="DELETED" beforePath="C:\Gitrepo\GroovyExcelReaderInIDEA\out\production\IpswitchJenkinsWorkflow\ooxml-schemas-1.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Gitrepo\GroovyExcelReaderInIDEA\out\production\IpswitchJenkinsWorkflow\poi-3.11\ooxml-lib\xmlbeans-2.6.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Gitrepo\GroovyExcelReaderInIDEA\out\production\IpswitchJenkinsWorkflow\poi-3.11\poi-3.11-20141221.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Gitrepo\GroovyExcelReaderInIDEA\out\production\IpswitchJenkinsWorkflow\poi-3.11\poi-examples-3.11-20141221.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Gitrepo\GroovyExcelReaderInIDEA\out\production\IpswitchJenkinsWorkflow\poi-3.11\poi-excelant-3.11-20141221.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Gitrepo\GroovyExcelReaderInIDEA\out\production\IpswitchJenkinsWorkflow\poi-3.11\poi-ooxml-3.11-20141221.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Gitrepo\GroovyExcelReaderInIDEA\out\production\IpswitchJenkinsWorkflow\poi-3.11\poi-ooxml-schemas-3.11-20141221.jar" afterPath="" />
+      <change type="DELETED" beforePath="C:\Gitrepo\GroovyExcelReaderInIDEA\out\production\IpswitchJenkinsWorkflow\poi-3.11\poi-scratchpad-3.11-20141221.jar" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="IpswitchJenkinsWorkflow.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -169,11 +146,11 @@
   </component>
   <component name="RunManager" selected="Groovy.ExcelReader">
     <configuration default="false" name="ExcelReader" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
-      <module name="IpswitchJenkinsWorkflow" />
+      <module name="GroovyExcelReaderInIDEA" />
       <setting name="path" value="file://$PROJECT_DIR$/src/GroovyScripts/ExcelReader.groovy" />
       <setting name="vmparams" value="" />
       <setting name="params" value="" />
-      <setting name="workDir" value="file://$PROJECT_DIR$/out/production/IpswitchJenkinsWorkflow" />
+      <setting name="workDir" value="file://$PROJECT_DIR$/out/production/GroovyExcelReaderInIDEA" />
       <setting name="debug" value="true" />
       <RunnerSettings RunnerId="Debug">
         <option name="DEBUG_PORT" value="" />
@@ -374,7 +351,13 @@
       <option name="project" value="LOCAL" />
       <updated>1421234821310</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="first commit">
+      <created>1421234941677</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1421234941677</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
