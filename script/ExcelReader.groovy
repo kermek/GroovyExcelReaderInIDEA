@@ -12,7 +12,7 @@ class ExcelReader {
     def workbook
     def labels
     def row
-    ExcelReader(String fileName) {
+    ExcelReader(File fileName) {
         DataFormatter dataFormatter = new DataFormatter()
         Row.metaClass.getAt = { int idx ->
             Cell cell = delegate.getCell(idx)
@@ -21,7 +21,7 @@ class ExcelReader {
             }
             return dataFormatter.formatCellValue(cell)
         }
-        workbook = WorkbookFactory.create(new File(fileName))
+        workbook = WorkbookFactory.create(fileName)
     }
     def getSheet(idx) {
         def sheet
@@ -62,7 +62,7 @@ class ExcelReader {
     }
 
     public static void main(String[] args) {
-        new ExcelReader("TA approach.xlsx").eachLine {
+        new ExcelReader(new File("e:\\TA approach.xlsx")).eachLine {
             println "First column on row ${it.rowNum} = ${cell(0)}"
         }
     }
